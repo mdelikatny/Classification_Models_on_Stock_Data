@@ -1,4 +1,4 @@
-# Classification_Models_on_Stock_Data
+Machine Learning on Stock Data
 
 This code performs machine learning and evaluation on financial data for a list of stock tickers. The code first defines a function called machinelearn_df that extracts financial data for a specified stock ticker, adds technical indicators as features, splits the data into training and validation sets, and evaluates several classifiers using cross-validation. The function evaluates the classifiers using the following metrics: accuracy, precision, recall, F1-score, and balanced accuracy.
 
